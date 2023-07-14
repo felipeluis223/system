@@ -1,1 +1,4 @@
 name;last_name;city;country;email;telephone
+luis;felipe;são paulo;Brasil;luis@email.com;19999999999
+felipe;bueno;são paulo;Brasil;felipe@email.com;19999999999
+bueno;luis;são paulo;Brasil;bueno@email.com;19999999999
